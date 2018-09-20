@@ -2,9 +2,10 @@
 Данные, задачи и полезные ссылки для участников хакатона Депфина Москвы 20-21 октября 2018
 # Идеи и задачи для хакатона
 
-    Идеи для хакатона собраны по ссылке - <a href='https://github.com/infoculture/mosfindata/issues'>https://github.com/infoculture/mosfindata/issues</a>
+    Идеи для хакатона собраны по ссылке - https://github.com/infoculture/mosfindata/issues
 
-    Также посмотрите на идеи собранные в рамках других конкурсов чтобы понимать, что можно сделать по аналогии https://github.com/infoculture/datatasks/issues
+    Также посмотрите на идеи собранные в рамках других конкурсов чтобы понимать, что можно сделать по аналогии -
+    https://github.com/infoculture/datatasks/issues
 
 # Основные наборы данных
     
@@ -34,7 +35,8 @@
 
     Реестр соглашений о предоставлении субсидий федерального бюджета - http://rs.budget.gov.ru;
 
-    Участники бюджетного процесса - http://budget.gov.ru/epbs/faces/p/%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D1%8B/%D0%A0%D0%B5%D0%B5%D1%81%D1%82%D1%80%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%B8%20%D0%BD%D0%B5%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%B1%D1%8E%D0%B4%D0%B6%D0%B5%D1%82%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%B0?_afrWindowId=null&_afrLoop=20949468047312890&_adf.ctrl-state=12uob1raph_74&_afrWindowMode=0#!%40%40%3F_afrWindowId%3Dnull%26_afrLoop%3D20949468047312890%26_afrWindowMode%3D0%26_adf.ctrl-state%3Df0kpa09o_4&regionId=45;
+    Участники бюджетного процесса - 
+    http://budget.gov.ru/epbs/faces/p/%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D1%8B/%D0%A0%D0%B5%D0%B5%D1%81%D1%82%D1%80%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%B8%20%D0%BD%D0%B5%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%B1%D1%8E%D0%B4%D0%B6%D0%B5%D1%82%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%B0?_afrWindowId=null&_afrLoop=20949468047312890&_adf.ctrl-state=12uob1raph_74&_afrWindowMode=0#!%40%40%3F_afrWindowId%3Dnull%26_afrLoop%3D20949468047312890%26_afrWindowMode%3D0%26_adf.ctrl-state%3Df0kpa09o_4&regionId=45;
 
     Открытые государственные финансовые данные региональных органов исполнительной власти — региональные Минфины - https://docs.google.com/spreadsheets/d/1b-zIPeIyNeI4x3bRr5lU4AWOFFdPoYmvA2ZWPvNAKr0/edit?usp=sharing.
 
